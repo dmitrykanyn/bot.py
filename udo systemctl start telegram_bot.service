@@ -1,0 +1,6 @@
+● telegram-bot.service - Telegram Bot Service
+     Loaded: loaded (]8;;file://ubuntu-s-1vcpu-1gb-fra1-01/etc/systemd/system/telegram-bot.service/etc/systemd/system/telegram-bot.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)
+     Active: activating (auto-restart) (Result: exit-code) since Tue 2024-06-25 19:34:26 UTC; 21ms ago
+    Process: 131380 ExecStart=/root/telegram_bot/myenv/bin/python3 /root/telegram_bot/bot.py [0;1;31m(code=exited, status=203/EXEC)[0m
+   Main PID: 131380 (code=exited, status=203/EXEC)
+        CPU: 4ms
